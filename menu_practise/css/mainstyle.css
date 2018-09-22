@@ -83,6 +83,7 @@ body {
 
 .menu-active {
   left: 0;
+  top: 0;
 }
 
 .menu ul {
