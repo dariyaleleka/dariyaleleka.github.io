@@ -7,4 +7,4 @@
 
 [Menu_practise #3](dariyaleleka.github.io/menu_practise/ "menu_practise")
 
-[Landing-page-practise #4](dariyaleleka.github.io/Landing_practise file_2/ "#4")
+[Landing_practise file_2 #4](dariyaleleka.github.io/Landing_practise file_2/ "#4")
