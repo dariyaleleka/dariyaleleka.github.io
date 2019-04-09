@@ -1,5 +1,5 @@
 # Дарья Лелека
-Мои работы
+Works
 
 [Landing_page #1](dariyaleleka.github.io/file_1/ "my first work")
 
