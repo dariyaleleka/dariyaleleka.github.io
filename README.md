@@ -11,3 +11,5 @@ Works
 
 [Landing_practise #5](dariyaleleka.github.io/Golden-one-page/ "golden-pages")
 
+[Landing_practise #6](dariyaleleka.github.io/start-landing/ "start-landing")
+
